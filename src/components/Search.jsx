@@ -26,7 +26,7 @@ export const Search = observer(() => {
           textAlign={"center"}
           mb={5}
         >
-          Subscribe to our Newsletter
+          Searching github repositories
         </Heading>
         <Stack direction={"row"} as={"form"} spacing={"12px"}>
           <FormControl>
